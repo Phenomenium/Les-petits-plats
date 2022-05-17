@@ -1,3 +1,3 @@
-# Les petits plats - Projet 6 - Aïssa Belguidoum
+# Les petits plats - Projet 7 - Aïssa Belguidoum
 
 https://phenomenium.github.io/Les-petits-plats/
